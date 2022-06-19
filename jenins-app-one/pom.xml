@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.wipro.jenkins</groupId>
-  <artifactId>jenins-app-one</artifactId>
+  <artifactId>jenkins-app-one</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
   <name>jenins-app-one</name>
